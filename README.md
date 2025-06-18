@@ -6,6 +6,11 @@ A modern, responsive React application that replicates the visual appearance and
 
 This project is a frontend-only replica that focuses on visual design, user interface, and interactive elements without implementing backend functionality. It demonstrates modern web development practices and responsive design principles.
 
+## Demo
+Here's a quick look at the web application:
+
+![Demo](public/image.png)
+
 ## 🛠️ Technologies Used
 
 ### Frontend Framework
